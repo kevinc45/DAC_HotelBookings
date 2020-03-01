@@ -1,3 +1,3 @@
 # DAC_HotelBookings
 
-## Initiap Project of our
+## Initial Project of our
